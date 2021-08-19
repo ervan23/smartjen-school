@@ -22,6 +22,9 @@ This is simple project by Ervan. Build on top of Laravel-Vue with realtime abili
 - Run ```php artisan passport:install```
 - Run ```yarn install``` or ```npm install```
 
+## Docs
+- API Collection can be found <a href="https://www.getpostman.com/collections/65f65ebe4aae4bb2eb3a" target="_blank">here</a>
+
 *) *_Leave issue if you found a problem during installation or during runtime._*
 
 Developer:
